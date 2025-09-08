@@ -13,3 +13,7 @@ MIX_ENV=prod mix release
 ```sh
 mix test
 ```
+
+## Other Languages
+
+- Gleam: [gleam_kv_demo](https://github.com/lost22git/gleam_kv_demo)
